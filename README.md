@@ -1,16 +1,36 @@
-# slash_app
+# 🎯Slash App - Responsive Home Screen
+This Flutter project implements a responsive UI for the Home Screen of the Slash App, designed to seamlessly adapt to both mobile and web platforms. The implementation follows clean architecture principles and utilizes the MVVM pattern with Cubit for state management.
 
-A new Flutter project.
 
-## Getting Started
+## 📌Project Structure
 
-This project is a starting point for a Flutter application.
+The project follows a structured approach based on Clean Architecture principles, MVVM Pattern 
+and include Cubit to implement State management:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/structure.png" style="width: 350px;"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🔗ScreenShots
+
+
+## ✔️Installation
+
+1. **Clone the repo**
+   ```cmd
+   git clone https://github.com/mennamohamed97/Slash_Home_Task.git
+2. **Go to directory**
+   ```cmd
+   cd Slash_Home_Task
+3. **Open VsCode**
+   ```cmd
+   code .
+4. **Get dependencies**
+   ```cmd
+   flutter pub get
+5. **Run the app**
+   ```cmd
+   flutter run
+
+## ♥️Feedback
+For any issues or feedback, please submit an issue or contact [mennaallah.mabas@gmail.com] for assistance
