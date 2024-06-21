@@ -44,7 +44,8 @@ class _SectionWidgetState extends State<SectionWidget> {
   @override
   Widget build(BuildContext context) {
     double screenWidth = MediaQuery.of(context).size.width;
-    bool isScreenSmall = screenWidth < 275;
+    bool isScreenSmall = screenWidth < 345;
+    bool isSmall = screenWidth < 122;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -79,7 +80,7 @@ class _SectionWidgetState extends State<SectionWidget> {
                         ),
                       ),
                     ),
-              isScreenSmall
+              isSmall
                   ? Flexible(
                       child: Row(
                       mainAxisAlignment: MainAxisAlignment.end,
