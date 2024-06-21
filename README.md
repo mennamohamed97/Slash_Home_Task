@@ -13,14 +13,14 @@ and include Cubit to implement State management:
 
 ## 🔗ScreenShots
 
-## web
+## ⚡web
 
 
 <img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/web1.png" style="width: 750px;"/> 
 <img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/web2.png" style="width: 750px;"/> 
 
 
-## mobile
+## ⚡mobile
 
 
 <img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/mobile1.jpeg" style="width: 400px;"/>         <img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/mobile2.jpeg" style="width: 400px;"/> 
