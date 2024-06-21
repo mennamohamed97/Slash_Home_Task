@@ -13,6 +13,19 @@ and include Cubit to implement State management:
 
 ## 🔗ScreenShots
 
+## web
+
+
+<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/web1.png" style="width: 750px;"/> 
+<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/web2.png" style="width: 750px;"/> 
+
+
+## mobile
+
+
+<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/mobile1.jpeg" style="width: 450px;"/>
+<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/mobile1.jpeg" style="width: 450px;"/> 
+
 
 ## ✔️Installation
 
@@ -22,7 +35,7 @@ and include Cubit to implement State management:
 2. **Go to directory**
    ```cmd
    cd Slash_Home_Task
-3. **Open VsCode**
+3. **Open on VsCode**
    ```cmd
    code .
 4. **Get dependencies**
