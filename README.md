@@ -23,7 +23,7 @@ and include Cubit to implement State management:
 ## mobile
 
 
-<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/mobile1.jpeg" style="width: 400px;"/> <img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/mobile1.jpeg" style="width: 400px;"/> 
+<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/mobile1.jpeg" style="width: 400px;"/>         <img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/mobile2.jpeg" style="width: 400px;"/> 
 
 
 
