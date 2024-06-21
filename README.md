@@ -8,7 +8,7 @@ The project follows a structured approach based on Clean Architecture principles
 and include Cubit to implement State management:
 
 
-<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/structure.png" style="width: 350px;"/>
+<img src="https://github.com/mennamohamed97/Slash_Home_Task/blob/master/ScreenShots/Structure.png" style="width: 350px;"/>
 
 
 ## 🔗ScreenShots
